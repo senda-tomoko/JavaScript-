@@ -1,0 +1,53 @@
+@charset "utf-8";
+
+
+h3 {
+    font-size: 30px;
+}
+
+.content{
+    font-family: arial, sans-serif;
+	max-width: 600px;
+	margin: 20 auto;
+	text-align: left;
+}
+
+.number {
+    margin-left: 30px； 
+    vertical-align: top; 
+}
+
+.colon {
+    font-size: 25px; 
+}
+
+#time{
+    font-size: 50px;
+    margin: 30px 80px 30px 20px;
+}
+
+button {
+    padding: 20px 0;
+    font-size: 30px;
+    display: inline-block;
+    padding: .8rem 1.6rem;
+    border: 1px solod black;
+    background-color: lightgrey;
+    border-radius: 4%;
+    margin: 20px auto;
+    font-weight: bold;
+}
+button:hover {
+    cursor: pointer;
+    background-color: lightgray;
+}
+button:disabled {
+    cursor: default;
+    background-color: lightgray;
+}
+
+
+
+
+
+
